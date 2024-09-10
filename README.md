@@ -21,6 +21,8 @@ To tackle this challenge I...
    
 + Jupyter Documentation (https://docs.jupyter.org/en/latest/)
 
++ GeoViews Documentation (https://geoviews.org/user_guide/)
+
 + Xpert Learning Assistant
 
 + ChatGPT
