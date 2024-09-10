@@ -19,6 +19,8 @@ To tackle this challenge I...
 ## Resources
 
    
++ Jupyter Documentation (https://docs.jupyter.org/en/latest/)
+
 + Xpert Learning Assistant
 
 + ChatGPT
