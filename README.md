@@ -39,4 +39,6 @@ To tackle this challenge I...
 + output_data folder (cities.csv, Fig1.png, Fig2.png, Fig3.png, Fig4.png)
 + .env (keys are stored here)
 
+#### Module 6 Python API Challenge (Original Challenge Requirements)
+
 #### ReadMe
